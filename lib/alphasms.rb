@@ -1,5 +1,5 @@
 require 'alphasms/version'
-require 'alphasms/builder'
+require 'alphasms/buildr'
 require 'alphasms/configuration'
 
 module Alphasms
